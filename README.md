@@ -13,8 +13,10 @@ Here’s an example where they don’t:
 ❓ **Why isn’t the model picking up these fraud signals?**  
 📊 **How can statistical anomaly detection help?**
 
-👉 Read the full write-up and explore the reproducible code here:  
+👉 Read the full write-up here:  
 [GitHub Repository](https://github.com/dglassbrenner1/squeezing-more-info-out-of-fraud-data-w-statistics)
+
+Have you tried combining anomaly detection with ML in your fraud workflows?
 
 #DataScience #FraudDetection #MachineLearning #AnomalyDetection #Statistics
 
