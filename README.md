@@ -1,4 +1,4 @@
-# Squeezing More Info Out of Fraud Data with Statisticis
+# Squeezing More Info Out of Fraud Data with Statistics
 
 This repository gives the analysis behind my November 21, 2025 LinkedIn post. 
 
