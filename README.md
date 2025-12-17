@@ -14,7 +14,7 @@ Here’s an example where they don’t:
 📊 **How can statistical anomaly detection help?**
 
 👉 Read the full write-up here:  
-[GitHub Repository](https://github.com/dglassbrenner1/squeezing-more-info-out-of-fraud-data-w-statistics)
+[Write-up and Python code]([https://github.com/dglassbrenner1/squeezing-more-info-out-of-fraud-data-w-statistics](https://github.com/dglassbrenner1/squeezing-more-info-out-of-fraud-data-w-statistics/blob/main/squeezing-more-info-out-of-fraud-data-w-statistics.ipynb))
 
 Have you tried combining anomaly detection with ML in your fraud workflows?
 
